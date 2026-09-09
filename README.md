@@ -7,12 +7,12 @@ Cape Town, Western Cape, South Africa
 
 ---
 
-### 🚀 Professional Summary
+### Professional Summary
 BSc Computer Science graduate with hands-on experience supporting 16,000+ enterprise users across on-premises Active Directory and cloud ecosystems. Experienced in frontline L1/L2 service desk operations, Microsoft Entra ID governance, Intune device compliance baselines, physical LAN infrastructure, and modern AI-driven ITSM triage workflows.
 
 ---
 
-### 🛠️ Core Competencies & Tech Stack
+### Core Competencies & Tech Stack
 - **Directory & Cloud Identity:** Active Directory, Microsoft Entra ID, GPO, RBAC tiers, MFA troubleshooting
 - **Endpoint & SaaS Administration:** Microsoft 365 Admin Center, Microsoft Intune compliance baselines, Azure Fundamentals (AZ-900)
 - **Networking & Infrastructure:** LAN wall patching, Wi-Fi authentication, VPN, DHCP/DNS, Huawei HCIA-Datacom
@@ -21,7 +21,7 @@ BSc Computer Science graduate with hands-on experience supporting 16,000+ enterp
 
 ---
 
-### 📜 Certifications & Accreditations
+### Certifications & Accreditations
 - **Microsoft Certified:** Azure Fundamentals (AZ-900)
 - **Huawei Certified ICT Associate:** Datacom (HCIA)
 - **Certificate of Competence:** Network & Systems Administration (MICT SETA Accredited)
@@ -30,6 +30,6 @@ BSc Computer Science graduate with hands-on experience supporting 16,000+ enterp
 
 ---
 
-### 💼 Key Highlights
-- 🔭 Developed and deployed **TechnoResolve Desk**, an AI-powered ITSM platform automating ticket classification, triage, and role-based workflows.
-- 🏢 Supported institutional infrastructure and user account provisioning at the **University of Venda** and **CAPACITI**.
+### Key Highlights
+- Developed and deployed **TechnoResolve Desk**, an AI-powered ITSM platform automating ticket classification, triage, and role-based workflows.
+- Supported institutional infrastructure and user account provisioning at the **University of Venda** and **CAPACITI**.
